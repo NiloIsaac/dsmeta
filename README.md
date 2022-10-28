@@ -7,7 +7,7 @@
 
 ## 📝 Descrição 
 
-Aplicação de listagem de vendas, com a opção de filtrar determinados períodos de vendas por data. 
+Aplicação de listagem de vendas, com a opção de filtrar determinados períodos de vendas por data e mandar mensagens SMS de vendas especificas. 
 
 - site final: [DsMeta](https://dsmeta-niloisaac.netlify.app) 
 
@@ -24,6 +24,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Axios 
 - API REST
 - H2 Database
+- Heroku
+- Twilio
 
 ![DSMeta2](https://user-images.githubusercontent.com/101424190/198748614-b22423e3-1b96-4140-9480-6493182767ff.jpeg)
 
