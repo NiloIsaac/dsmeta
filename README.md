@@ -40,17 +40,20 @@ Links
 <p align="left">
  
  <a href="https://www.linkedin.com/in/niloisaac/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/evander-inacio"/> 
+  <img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF"/> 
  </a>
  
  <a href="https://www.facebook.com/nilo.isaac" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-000dff?style=for-the-badge&logo=Facebook&logoColor=FFFFFF&link=https://www.facebook.com/evandder.lopes"/> 
+  <img src="https://img.shields.io/badge/-Facebook-000dff?style=for-the-badge&logo=Facebook&logoColor=FFFFFF"/> 
  </a>
  
  <a href="https://twitter.com/FrontEndNilo" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=FFFFFF&link=https://twitter.com/Evander_Inacio"/> 
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=FFFFFF"/> 
  </a>
-
+ 
+<a href="https://wa.me/+5586999121723" alt="WhatsApp">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
  </p>
  
